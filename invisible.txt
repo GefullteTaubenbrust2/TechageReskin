@@ -1,0 +1,3 @@
+The Techage Survival Server features an invisible block, which some people find irritating. 
+In the myblocks folder, you will find a texture called "myblocks_invisible disabled".
+Simply rename the file, removing the 'disabled' and the invisible block will no longer be so invisible :)
